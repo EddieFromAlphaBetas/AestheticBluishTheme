@@ -6,4 +6,4 @@ Welcome to the **AestheticBluishTheme** GitHub page, where I store the source co
 
 
 
-<br> P.S: This source code is used under Mozilla License 2.0.
+<br> P.S: This source code is used under Mozilla Public License 2.0.
