@@ -1,9 +1,9 @@
 # AestheticBluishThemeFirefox
 Welcome to the **AestheticBluishTheme** GitHub page, where I store the source code for each version that I uploaded to Firefox/Chrome.
 
-<br> Anyways, happy looking through source code!
+<br> Anyways, happy looking through source code! :) <33
 
-**Changelog (updated 22th February 2022)** 
+<br>**Changelog (updated 22th February 2022)** 
 
 <br>(Uploaded) Version 2.0 includes (the first one):
 - The redesign of the theme from the draft.
