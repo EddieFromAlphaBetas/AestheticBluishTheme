@@ -1,4 +1,4 @@
-# Version 2.1.3b 
+# Version 2.2.0
 
 **The latest release on AMO (addons.mozilla.org).**
 
