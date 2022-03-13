@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "version": "3.0",
+  "name": "Aesthetic Bluish Theme (v3.0)",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.jpg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "left top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(225, 234, 239, 0)",
+      "toolbar_text": "rgb(0, 0, 0)",
+      "frame": "rgb(244, 180, 212)",
+      "tab_background_text": "rgb(0, 0, 0)",
+      "toolbar_field": "rgba(244, 180, 212, 0.08)",
+      "toolbar_field_text": "rgb(6, 6, 30)",
+      "tab_line": "rgba(255, 138, 163, 0.11)",
+      "popup": "rgb(244, 180, 212)",
+      "popup_text": "rgb(60, 105, 134)",
+      "button_background_active": "rgba(34, 25, 77, 0.77)",
+      "button_background_hover": "rgb(244, 180, 212)",
+      "ntp_background": "rgb(34, 17, 26)",
+      "tab_loading": "rgb(244, 180, 212)",
+      "toolbar_top_separator": "rgba(34, 25, 77, 0)",
+      "toolbar_vertical_separator": "rgba(34, 25, 77, 0.27)"
+    }
+  }
+}
