@@ -3,7 +3,7 @@ Welcome to the **AestheticBluishTheme** GitHub page, where I store the source co
 
 <br> Anyways, happy looking through source code! :) <33
 
-<br>**Changelog (updated 22th February 2022)** 
+<br>**Changelog (updated 13th March 2022)** 
 
 <br>(Uploaded) Version 2.0 includes (the first one):
 - The redesign of the theme from the draft.
