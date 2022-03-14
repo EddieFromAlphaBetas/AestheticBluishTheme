@@ -1,5 +1,5 @@
 # AestheticBluishTheme
-Welcome to the **AestheticBluishTheme** GitHub page, where I store the source code for each version that I uploaded to Firefox/Chrome.
+Welcome to the **AestheticBluishTheme** GitHub page, where I store the source code for each version that I uploaded to Firefox.
 
 <br> Anyways, happy looking through source code! :) <33
 
@@ -18,7 +18,7 @@ Welcome to the **AestheticBluishTheme** GitHub page, where I store the source co
 <a href="https://addons.mozilla.org/en-US/firefox/addon/darkreader/" target="_blank">Get it here!</a>
 - Changes the new tab color to dark purple for nighters.
 - Control + F menu is now turned to dark blue.
-Version 3.0 includes: (which haven't been uploaded at the time I'm writing this)
+Version 3.0 includes: 
 - Notable changes to lines (removed completely!)
 - Better integration with Dark Reader.
 - Updated the protocol to make the user more privacy.
