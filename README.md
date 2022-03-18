@@ -25,6 +25,7 @@ Version 3.0 includes:
 
 You don't know where to get it? <a href="https://addons.mozilla.org/en-US/firefox/addon/aesthetic-bluish-theme"> Click here! </a>
 
+UPDATE (18th, March 2022): WE HIT 1000 USERS worldwide, that is amazing, and from the bottom of my heart, thank you for this milestone, I couldn't have hit it without you guys, and again thank you <3
 
 
 <br> P.S: This source code is used under Mozilla Public License 2.0.
