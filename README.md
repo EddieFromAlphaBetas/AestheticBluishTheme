@@ -29,4 +29,4 @@ UPDATE (18th, March 2022): WE HIT 1000+ USERS worldwide, that is amazing, and fr
 
 
 <br> P.S: This source code is used under Mozilla Public License 2.0.
-<br> The theme is used used under Creative Commons Attribution-NonCommercial 3.0.
+<br> The theme is used under Creative Commons Attribution-NonCommercial 3.0.
