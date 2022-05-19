@@ -3,7 +3,7 @@ Welcome to the **AestheticBluishTheme** GitHub page, where I store the source co
 
 <br> Anyways, happy looking through source code! :) <33
 
-<br>**Changelog (updated 13th March 2022)** 
+<br>**Changelog (updated May 19th 2022)** 
 
 <br>(Uploaded) Version 2.0 includes (the first one):
 - The redesign of the theme from the draft.
@@ -23,6 +23,12 @@ Welcome to the **AestheticBluishTheme** GitHub page, where I store the source co
 - Better integration with Dark Reader.
 - Updated the protocol to make the user more privacy.
 - New tab page changed to purple instead of pink.
+<br> Version 3.1 includes:
+- Revert from Dark Purple background back to Pink background for the new tab page, since you guys loved it, you got it!
+- Changed the contrast of theme a little. (took me such a long time to figure it out lol)
+- Tweaked the internal stuff bugs that appeared on Firefox 100.
+- Fixed the glitch on startup on Firefox Nightly.
+- Unfortunately, the Windows 7 issue is partially fixed. Not entirely, though, since Firefox is a bit restrictive when I tried modding that one.
 
 You don't know where to get it? <a href="https://addons.mozilla.org/en-US/firefox/addon/aesthetic-bluish-theme"> Click here! </a>
 
